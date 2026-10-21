@@ -1,0 +1,24 @@
+.main-header ul{
+display: flex;
+justify-content: flex-end;
+background-color: whitesmoke;
+width: 100%;
+color: aliceblue;
+align-items: center;
+padding: 59px;
+color: burlywood ;
+font-size: x-large;
+}
+
+ li a {
+    color:#428bca ;
+    font-weight:500px ;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: aliceblue;
+
+
+}
+.logo{
+width: 50px;
+}
